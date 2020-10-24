@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposePlayGround</string>
+    <string name="title_activity_main">My Compose App</string>
+</resources>
