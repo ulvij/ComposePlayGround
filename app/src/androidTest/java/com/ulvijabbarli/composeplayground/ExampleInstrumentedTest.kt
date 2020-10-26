@@ -1,4 +1,4 @@
-package com.example.composeplayground
+package com.ulvijabbarli.composeplayground
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

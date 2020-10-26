@@ -1,4 +1,4 @@
-package com.example.composeplayground.ui
+package com.ulvijabbarli.composeplayground.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
