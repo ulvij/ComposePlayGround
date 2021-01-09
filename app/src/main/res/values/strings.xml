@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ComposePlayGround</string>
     <string name="title_activity_main">My Compose App</string>
+    <string name="home_route">Home</string>
+    <string name="search_route">Search</string>
+    <string name="add_route">Add</string>
+    <string name="feed_route">Feed</string>
+    <string name="profile_route">Profile</string>
 </resources>
