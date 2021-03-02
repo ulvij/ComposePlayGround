@@ -21,4 +21,11 @@ val colors = listOf(
 )
 
 val lightBlue = Color(0xFFE6F2F4)
+val blue = Color(0xFF24849C)
+val blueLight = Color(0xFF45BFE4)
+
 val transparent= Color(0x00FFFFFF)
+val transparentBy10= Color(0x1A000000)
+
+val white = Color(0xFFFFFFFF)
+val whiteTransparentBy64 = Color(0xA3FFFFFF)

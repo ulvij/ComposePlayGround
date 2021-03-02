@@ -61,7 +61,7 @@ fun ProfileView() {
         elevation = 16.dp,
     ) {
         Image(
-            asset = imageResource(id = R.drawable.image_recipe),
+            asset = imageResource(id = R.drawable.ic_profile),
             contentScale = ContentScale.Crop
         )
     }
