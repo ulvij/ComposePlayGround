@@ -1,6 +1,7 @@
 package com.ulvijabbarli.composeplayground.components
 
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.ScrollableRow
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyRow
@@ -34,10 +35,10 @@ fun FavoritesView() {
                 fontSize = 16.sp,
                 fontWeight = FontWeight.Bold
             ),
-            modifier = Modifier.padding(12.dp)
+            modifier = Modifier.padding(start = 20.dp)
         )
         LazyRow(contentPadding = PaddingValues(start = 15.dp, end = 15.dp, bottom = 15.dp)) {
-            items((1..20).toList()) { item ->
+            items((1..10).toList()) { item ->
                 FavoriteItem(item)
             }
         }

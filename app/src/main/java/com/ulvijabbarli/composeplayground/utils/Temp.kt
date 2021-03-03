@@ -1,4 +1,4 @@
-package com.ulvijabbarli.composeplayground
+package com.ulvijabbarli.composeplayground.utils
 
 //@Composable
 //fun AppScreen(
